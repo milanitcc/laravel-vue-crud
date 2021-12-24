@@ -23,7 +23,7 @@ Clone the repo and follow below steps.
 Thats it... Run the command `php artisan serve` and cheers, you are good to go with your new **Laravel Vue Crud** application.
 
 
-### Using docker to run the application
+### Run application use following command
 ---
 1. `composer install`
 2. `php artisan key:generate`
